@@ -1,0 +1,4 @@
+www-data ALL= NOPASSWD: /usr/bin/python reset.py
+www-data ALL= NOPASSWD: /usr/bin/python power.py
+www-data ALL= NOPASSWD: /usr/bin/python power-hold.py
+www-data ALL= NOPASSWD: /usr/bin/python power-led.py

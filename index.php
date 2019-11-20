@@ -23,7 +23,6 @@ if ($p)
 ?><html>
 
 <head>
-<meta http-equiv="refresh" content="10; url=/" />
 <title>Pi Switches</title>
 <style type="text/css">
 body {
@@ -36,10 +35,10 @@ input {
 </style>
 </head>
 <body>
-<h1>Pi Switches v1.0</h1>
+<h1>Pi Switches v1.1</h1>
 
 <h2><?php echo $state ?></h2>
-<h2><a href="/">Refresh</a></h2>
+<h2><a href="">Refresh</a></h2>
 
 <p><?php echo $output ?></p>
 
